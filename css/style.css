@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;500&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 /* ================= COMPONENTS =================*/
 @import url("components/card.css");
 @import url("components/navbar.css");
@@ -8,9 +8,10 @@
 
 /* ================= PRIMARY ================= */
 body {
-  background-color: #dde5b6;
-  font-family: "Roboto", sans-serif;
-  color: #6c584c;
+  margin: 0 auto;
+  background-color: #2a0944;
+  font-family: "Montserrat", sans-serif;
+  color: #fec260;
   font-size: 16px;
   line-height: 8px;
 }

@@ -1,14 +1,14 @@
 .card {
-  margin-bottom: 24px;
+  margin: 24px auto;
+  padding-top: 24px;
   border-radius: 4px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
-.card-white {
+/* .card-white {
   background: white;
   padding: 30px;
   border: 1px solid lightgrey;
-}
+} */
 
 /* ================ First card ================ */
 .introduction {
@@ -16,25 +16,6 @@
 }
 
 /* ================ Second card ================ */
-
-ul {
-  padding-left: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  list-style-type: none;
-}
-
-li a {
-  font-size: 32px;
-  color: #a98467;
-  text-decoration: none;
-  padding: 0 20px;
-}
-
-li a:hover {
-  color: #4e3221;
-}
 
 /* ================ MEDIA ================ */
 @media (max-width: 960px) {
