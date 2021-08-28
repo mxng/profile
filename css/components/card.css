@@ -4,18 +4,9 @@
   border-radius: 4px;
 }
 
-/* .card-white {
-  background: white;
-  padding: 30px;
-  border: 1px solid lightgrey;
-} */
-
-/* ================ First card ================ */
 .introduction {
   height: 90px;
 }
-
-/* ================ Second card ================ */
 
 /* ================ MEDIA ================ */
 @media (max-width: 960px) {
