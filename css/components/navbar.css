@@ -1,9 +1,9 @@
 .nav {
-  background-color: #3b185f;
+  background-color: #e7e0c9;
   height: 72px;
   padding: 0 20px;
   margin: 0 auto;
-  border-bottom: 2px solid #240433;
+  border-bottom: 2px solid #dfd6b9;
 }
 
 .nav .container {
@@ -20,13 +20,13 @@
 
 .nav-links a,
 .nav-actions a {
-  color: #fec260;
+  color: #11324d;
   text-decoration: none;
 }
 
 .nav-links a:hover,
 .btn-sns a:hover {
-  color: #ffe1af;
+  color: #07233a;
 }
 
 .nav-actions {
