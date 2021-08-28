@@ -10,6 +10,33 @@
   border: 1px solid lightgrey;
 }
 
+/* ================ First card ================ */
+.introduction {
+  height: 90px;
+}
+
+/* ================ Second card ================ */
+
+ul {
+  padding-left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+}
+
+li a {
+  font-size: 32px;
+  color: #a98467;
+  text-decoration: none;
+  padding: 0 20px;
+}
+
+li a:hover {
+  color: #4e3221;
+}
+
+/* ================ MEDIA ================ */
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {

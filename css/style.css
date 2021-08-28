@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;500&display=swap");
+
+/* ================= COMPONENTS =================*/
+@import url("components/card.css");
+@import url("components/navbar.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+
+/* ================= PRIMARY ================= */
+body {
+  background-color: #dde5b6;
+  font-family: "Roboto", sans-serif;
+  color: #6c584c;
+  font-size: 16px;
+  line-height: 8px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
