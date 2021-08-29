@@ -1,5 +1,5 @@
 .nav {
-  background-color: #f7f7e8;
+  background-color: #f8ede3;
   height: 72px;
   padding: 0 20px;
   margin: 0 auto;
@@ -22,13 +22,13 @@
 
 .nav-links a,
 .nav-actions a {
-  color: #9dad7f;
+  color: #a2b29f;
   text-decoration: none;
 }
 
 .nav-links a:hover,
 .btn-sns a:hover {
-  color: #557174;
+  color: #798777;
 }
 
 .nav-actions {

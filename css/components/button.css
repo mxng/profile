@@ -4,11 +4,11 @@
   color: #f7f7e8;
   padding: 12px 24px;
   border-radius: 8px;
-  background-color: #9dad7f;
+  background-color: #a2b29f;
   /* border: 4px solid #9dad7f; */
 }
 
 .profile.btn-blue:hover {
-  background-color: #557174;
+  background-color: #798777;
   transition: 300ms ease;
 }

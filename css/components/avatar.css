@@ -4,7 +4,7 @@
   margin: 20px 0px;
   border-radius: 50%;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-  border: 4px solid #9dad7f;
+  border: 4px solid #a2b29f;
 }
 
 .profile .avatar:hover {
@@ -12,5 +12,5 @@
   height: 110px;
   margin: 15px 0px;
   transition: 300ms ease;
-  border: 4px solid #c7cfb7;
+  border: 4px solid #798777;
 }
