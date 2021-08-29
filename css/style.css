@@ -1,6 +1,5 @@
 /* ================= GOOGLE FONTS ================= */
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,400;0,500;0,600;1,400&family=Montserrat:ital,wght@0,400;0,600;1,400;1,500&display=swap");
 
 /* ================= COMPONENTS =================*/
 @import url("components/card.css");
@@ -18,10 +17,15 @@
 body {
   margin: 0 auto;
   background-color: #e7e0c9;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
   color: #11324d;
   font-size: 16px;
   line-height: 16px;
+}
+
+h1,
+h2 {
+  font-family: "Montserrat Alternates", Arial, Helvetica, sans-serif;
 }
 
 h1 {
