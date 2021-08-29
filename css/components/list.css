@@ -1,24 +1,22 @@
 /* ======== skills list ========*/
-.skills {
-  margin: 0 auto;
-}
 
 .skills .container {
+  margin: 0 auto;
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   width: 80%;
 }
 
 .skill {
   margin: 10px;
-  background-color: #c7cfb7;
+  border: 3px solid #c7cfb7;
   padding: 0px 20px;
   border-radius: 24px;
   line-height: 8px;
 }
 
 .skill:hover {
-  color: #f7f7e8;
-  background-color: #557174;
+  border: 3px solid #557174;
   transition: 500ms;
 }

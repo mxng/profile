@@ -8,6 +8,7 @@
 @import url("components/card.css");
 @import url("components/avatar.css");
 @import url("components/list.css");
+@import url("components/footer.css");
 /* ================= MEDIA QUERIES ================ */
 @import url("components/media.css");
 
@@ -42,7 +43,6 @@ h2 {
 
 .text-center {
   text-align: center;
-  margin: 0 auto;
 }
 
 ul {
