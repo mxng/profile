@@ -12,4 +12,5 @@
   height: 110px;
   margin: 15px 0px;
   transition: 300ms ease;
+  border: 4px solid #c7cfb7;
 }
