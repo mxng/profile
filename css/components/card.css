@@ -15,6 +15,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  text-align: left;
 }
 
 .resume .card {
@@ -25,7 +26,6 @@
   margin: 30px;
 }
 
-.resume .card p,
-.resume .card li {
+.resume .card p {
   line-height: 24px;
 }
