@@ -1,13 +1,13 @@
-.avatar {
+.profile .avatar {
   width: 100px;
   height: 100px;
   margin: 20px 0px;
   border-radius: 50%;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-  border: 2px solid #eeeeee;
+  border: 4px double #11324d;
 }
 
-.avatar:hover {
+.profile .avatar:hover {
   width: 110px;
   height: 110px;
   margin: 15px 0px;

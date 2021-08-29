@@ -1,0 +1,18 @@
+body > .container {
+  display: flex;
+  align-items: center;
+  height: 500px;
+}
+
+.profile {
+  margin: 24px auto;
+  border-radius: 4px;
+}
+
+.profile h1:first-child {
+  padding-bottom: 10px;
+}
+
+.profile.introduction {
+  height: 80px;
+}

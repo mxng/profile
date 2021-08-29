@@ -1,12 +1,13 @@
-.btn-purple {
+.profile.btn-blue {
   text-decoration: none;
   font-weight: 600;
   color: #11324d;
   padding: 12px 24px;
   border-radius: 8px;
+  border: 5px double #11324d;
 }
 
-.btn-purple:hover {
+.profile.btn-blue:hover {
   color: #e7e0c9;
   background-color: #11324d;
   transition: 300ms ease;
