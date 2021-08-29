@@ -3,6 +3,7 @@ body > .container {
   display: flex;
   align-items: center;
   height: 500px;
+  line-height: 18px;
 }
 
 .profile {
@@ -11,6 +12,6 @@ body > .container {
 }
 
 .profile.introduction {
-  height: 80px;
+  height: 120px;
   padding-bottom: 24px;
 }
