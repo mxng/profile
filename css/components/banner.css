@@ -9,10 +9,6 @@ body > .container {
   border-radius: 4px;
 }
 
-.profile h1:first-child {
-  padding-bottom: 10px;
-}
-
 .profile.introduction {
   height: 80px;
 }
