@@ -19,10 +19,10 @@
   }
 }
 
-@media (max-height: 540px) {
-  /* For a screen < 540px, this CSS will be read */
-  body > .container {
+/* @media (max-height: 540px) { */
+/* For a screen < 540px, this CSS will be read */
+/* body > .container {
     flex-direction: column;
     height: 100px;
-  }
-}
+  } */
+/* } */

@@ -3,7 +3,6 @@
   height: 72px;
   padding: 0 20px;
   margin: 0 auto;
-  /* border-bottom: 2px solid #dfd6b9; */
 }
 
 .nav .container {
@@ -43,6 +42,5 @@
 }
 
 .nav-actions .btn-sns {
-  /* padding: 0 10px; */
   list-style-type: none;
 }
