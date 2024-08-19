@@ -1,2 +1,2 @@
-# profile
-a profile page
+# Hi
+A RoR developer who enjoys front-end.
